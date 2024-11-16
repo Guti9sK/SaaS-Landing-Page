@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "packageManager": "pnpm@9.13.1",
   "dependencies": {
     "clsx": "^2.1.1",
     "framer-motion": "^11.2.12",
