@@ -1,6 +1,6 @@
 # Dark SaaS Landing Page Starter Template
 
-![TaskLanding](https://drive.google.com/file/d/1k1w4UHXofYsMYFP8oE2wljI63m_zaOh5/view?usp=drive_link)
+![TaskLanding](src/assets/images/task.webp)
 
 This project is a starter template for the dark theme SaaS landing page project created by Frontend Tribe.
 
